@@ -12,7 +12,7 @@ Dependencies
 * Jetty
 * vowpal wabbit
 
-The current web service was developed against and tested on Jetty 6.2.10, so
+The current web service was developed against and tested on Jetty 6.1.20, so
 these instructions are for Jetty. You will also need to have Maven 2.2.1
 installed in order to build the source code.
 
